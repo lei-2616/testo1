@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Volumes/DATA/git_test/CPP/CPP_out'
+relocations:     []
+...
